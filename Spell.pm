@@ -12,7 +12,7 @@ require Exporter;
 @EXPORT = qw(
 	spell_number
 );
-$VERSION = '0.03';
+$VERSION = '0.04';
 
 
 # Preloaded methods go here.
